@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Shetland Ferries</string>
+    <string name="originText">Finding location.....</string>
+    <string name="textView1h">Terminal</string>
+    <string name="textView2h">Time</string>
+    <string name="tt1">tt1</string>
+    <string name="tt2">tt2</string>
+    <string name="tt3">tt3</string>
+    <string name="tt4">tt4</string>
+    <string name="tt1h">Depart</string>
+    <string name="tt2h">Destination</string>
+    <string name="tt3h">Leave Time</string>
+
+</resources>
